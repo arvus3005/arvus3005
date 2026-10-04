@@ -4,7 +4,7 @@ Multidisciplinary designer with 3 years of experience across UX design and front
 
 ## Mentorship
 
-<table>
+<table cellpadding="4">
 <tr><th align="left">Date</th><th align="left">Event</th><th align="left">Host</th><th align="left">Purpose</th></tr>
 <tr><td>Oct 2026</td><td>UI/UX Workshop</td><td>Netaji Subhash Eng. College</td><td>Workshop on fundamentals of UX design and Figma</td></tr>
 <tr><td>Sep 2026</td><td><a href="https://www.instagram.com/p/Dd3API3MFm5/">AI Bondhu Sessions</a></td><td>Robin Hood Army</td><td>Basic AI hands-on to underprivileged children aged 9-14</td></tr>
@@ -24,7 +24,7 @@ Multidisciplinary designer with 3 years of experience across UX design and front
 
 ## Achievements
 
-<table>
+<table cellpadding="4">
 <tr><th align="left">Date</th><th align="left">Event</th><th align="left">Host</th><th align="left">Rank</th></tr>
 <tr><td>2023</td><td><a href="https://www.linkedin.com/posts/prasun--das_achievementunlocked-innovation-techcompetition-activity-7152683380373868544-snvc">IDEATHON 7</a></td><td>Webel</td><td>Winner (Top 8 globally)</td></tr>
 <tr><td>Apr 2022</td><td><a href="https://drive.google.com/file/d/1J6wpG97dY2wzIAOrGfrtTGeHmO9LeoOY/view?usp=drive_link">Product Game</a></td><td>Ureckon 4.0</td><td>Winner</td></tr>
