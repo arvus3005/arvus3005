@@ -34,6 +34,6 @@ Multidisciplinary designer with 3 years of experience across UX design and front
 <tr><td nowrap>Mar 2021</td><td><a href="https://www.facebook.com/photo.php?fbid=2790608211253994&set=pb.100064164604415.-2207520000&type=3">EDI's Poster Competition</a></td><td>UEM SPIE Student Chapter</td><td>Runner-up</td></tr>
 <tr><td nowrap>Jan 2020</td><td>Embetronix (Robotics Event)</td><td>Kshitij, IIT Kharagpur</td><td>Round 2</td></tr>
 <tr><td nowrap>Jan 2020</td><td><a href="https://drive.google.com/file/d/1QMqHAPo_io4wI1uXmJjHQLFfVRUp1NAA/view?usp=drive_link">I-Manthan</a></td><td>Kolkata Police</td><td>Finalist</td></tr>
-<tr><td nowrap>Jan 2020</td><td><a href="https://drive.google.com/file/d/18fYEFN5PyUV9U7OpApUiV9bdzq0q7vyh/view?usp=drive_link">India Innovation Challenge Design Contest</a></td><td>AICTE</td><td>Top 8</td></tr>
+<tr><td nowrap>Dec 2019</td><td><a href="https://drive.google.com/file/d/18fYEFN5PyUV9U7OpApUiV9bdzq0q7vyh/view?usp=drive_link">India Innovation Challenge Design Contest</a></td><td>AICTE</td><td>Top 8</td></tr>
 <tr><td nowrap>Aug 2019</td><td><a href="https://drive.google.com/file/d/1e-p-MhwWuLD_YdASXTgaoC6U_qwSyz_t/view?usp=drive_link">Lumos Quiz, WAVICLE 3.0</a></td><td>Techno Main Salt Lake</td><td>Runner-up</td></tr>
 </table>
