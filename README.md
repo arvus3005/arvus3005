@@ -16,9 +16,9 @@ Multidisciplinary designer with 3 years of experience across UX design and front
 <tr><td nowrap>Oct 2025</td><td>Athneon 1.0</td><td>Heritage School</td><td>Judge in the inter-school fest's web dev contest, 404 Found</td></tr>
 <tr><td nowrap>Jul 2025</td><td>Logique 8.0</td><td>Delhi Public School</td><td>Judge in the inter-school fest's web dev contest, Webverse</td></tr>
 <tr><td nowrap>Mar 2025</td><td><a href="https://ixdf.org/meetups/design-sprint-workshop-mar-29th-2025">Design Sprint Workshop</a></td><td>St. Xavier's College</td><td>Workshop for the MDes. students</td></tr>
+<tr><td nowrap>Feb 2025</td><td><a href="https://www.instagram.com/p/DFhWOsopwJn">DoubleSlash 3.0</a></td><td>Jadavpur University</td><td>Mentor in hackathon + live-demo: how UX decisions make or break scalable products</td></tr>
 <tr><td nowrap>Aug 2024</td><td><a href="https://meetups.umo.design/kolkata/">UMO Design in Kolkata</a></td><td>UX India Conference</td><td>Speaker: UX strategies to maximize user retention in SaaS</td></tr>
 <tr><td nowrap>Mar 2024</td><td><a href="https://www.instagram.com/p/C4ccZKoLoAZ/">Design Debrief 1.0</a></td><td>UEM</td><td>Speaker at the design society's inaugural event</td></tr>
-<tr><td nowrap>Feb 2024</td><td><a href="https://www.instagram.com/p/DFhWOsopwJn">DoubleSlash 3.0</a></td><td>Jadavpur University</td><td>Mentor in hackathon + live-demo: how UX decisions make or break scalable products</td></tr>
 <tr><td nowrap>Feb 2024</td><td><a href="https://www.instagram.com/p/C3ZVppES3vt/">Ureckon 6.0</a></td><td>UEM</td><td>Judged Spyder, a frontend dev contest</td></tr>
 </table>
 
