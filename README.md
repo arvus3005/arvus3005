@@ -22,6 +22,14 @@ Multidisciplinary designer with 3 years of experience across UX design and front
 <tr><td nowrap>Feb 2024</td><td><a href="https://www.instagram.com/p/C3ZVppES3vt/">Ureckon 6.0</a></td><td>UEM</td><td>Judged Spyder, a frontend dev contest</td></tr>
 </table>
 
+## Community Work
+
+<table cellpadding="4">
+<tr><th align="left" nowrap>Date</th><th align="left">Role</th><th align="left">Organisation</th></tr>
+<tr><td nowrap>Oct 2026 – Present</td><td>Chapter Leader</td><td>Figma Community, Kolkata</td></tr>
+<tr><td nowrap>Nov 2024 – Oct 2026</td><td>Head of Outreach</td><td>Figma Community, Kolkata</td></tr>
+</table>
+
 ## Achievements
 
 <table cellpadding="4">
