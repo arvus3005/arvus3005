@@ -26,7 +26,7 @@ Multidisciplinary designer with 3 years of experience across UX design and front
 
 <table cellpadding="4">
 <tr><th align="left" nowrap>Date</th><th align="left">Event</th><th align="left">Host</th><th align="left">Rank</th></tr>
-<tr><td nowrap>2023</td><td><a href="https://www.linkedin.com/posts/prasun--das_achievementunlocked-innovation-techcompetition-activity-7152683380373868544-snvc">Webel-BCC&amp;I Ideathon 7</a></td><td>Webel (a unit of Govt. of West Bengal)</td><td>Winner</td></tr>
+<tr><td nowrap>Oct 2023</td><td><a href="https://www.linkedin.com/posts/prasun--das_achievementunlocked-innovation-techcompetition-activity-7152683380373868544-snvc">Webel-BCC&amp;I Ideathon 7</a></td><td>Webel (a unit of Govt. of West Bengal)</td><td>Winner</td></tr>
 <tr><td nowrap>Apr 2022</td><td><a href="https://drive.google.com/file/d/1J6wpG97dY2wzIAOrGfrtTGeHmO9LeoOY/view?usp=drive_link">Product Game 1.0</a></td><td>Ureckon 4.0</td><td>Winner</td></tr>
 <tr><td nowrap>Sep 2021</td><td><a href="https://drive.google.com/file/d/1owW14SZGYW5lBUzp2sJPeEvmVGowj1Me/view?usp=sharing">Computer Science Research Fellowship</a></td><td>SARSTEM</td><td>Selected</td></tr>
 <tr><td nowrap>Jun 2021</td><td><a href="https://drive.google.com/file/d/1GmSztHlsgxmbWtBLWrpg3H3uY5ZgLVzF/view?usp=drive_link">IEEE PELS Jamboree</a></td><td>St. Joseph's College of Engineering, Chennai</td><td>Winner</td></tr>
